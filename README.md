@@ -11,12 +11,12 @@ I am passionate about blending creativity and technology to craft unique, impact
 
 ---
 
-## 💡 What I Offer  
+##  What I Offer  
 I focus on creating projects that are both aesthetically engaging and highly functional. From custom 3D models to seamless web designs, I aim to bring your ideas to life with precision and creativity.  
 
 ---
 
-## 🚀 Explore My Work  
+##  Explore My Work  
 Check out my repositories to see my latest projects and innovations.  
 
 ---
@@ -37,7 +37,7 @@ Check out my repositories to see my latest projects and innovations.
 
 ---
 
-## 📫 Get in Touch  
+##  Get in Touch  
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jamila-ait-hamou)  
 - 💼 [GitHub Projects](https://github.com/JAMILA-AIT-HAMOU)  
