@@ -1,47 +1,58 @@
-# Welcome to My GitHub! 👋  
 
-## I'm Jamila Ait Hamou  
-### Frontend Developer | 3D Modeler | Graphic Designer  
+Welcome to My GitHub! 👋
+I'm Jamila Ait Hamou
+Frontend Developer | 3D Modeler | Graphic Designer
+I’m passionate about blending creativity and technology to craft unique, impactful projects. My expertise lies in:
 
-I am passionate about blending creativity and technology to craft unique, impactful projects. My expertise lies in:  
+3D Modeling: Creating detailed and polished models with Blender.
 
-- **3D Modeling**: Creating detailed and polished models with Blender.  
-- **Web Development**: Building responsive and user-friendly websites using HTML, CSS, and JavaScript.  
-- **Graphic Design**: Designing visually compelling assets with tools like Photoshop and Canva.  
+Web Development: Building responsive, interactive, and accessible websites using HTML, CSS, and JavaScript.
 
----
+Graphic Design: Designing visually compelling assets with tools like Photoshop and Canva.
 
-##  What I Offer  
-I focus on creating projects that are both aesthetically engaging and highly functional. From custom 3D models to seamless web designs, I aim to bring your ideas to life with precision and creativity.  
+   What I Offer
+I focus on creating projects that are both aesthetically engaging and highly functional. From custom 3D models to seamless web designs, I aim to bring ideas to life with precision and creativity.
 
----
+📂 Explore My Work
+Browse through my repositories to discover my latest projects, from web applications to creative design assets.
 
-##  Explore My Work  
-Check out my repositories to see my latest projects and innovations.  
+🎓 Certifications
+✅ JavaScript Algorithms and Data Structures – freeCodeCamp
+Completed over 300 hours of hands-on JavaScript training with a focus on algorithms, data structures, and DOM manipulation.
 
----
+Projects:
 
-## 🎓 Certifications
+Palindrome Checker
 
-- **Responsive Web Design Certification** – [freeCodeCamp](https://www.freecodecamp.org/certification/JAMILAAITHAMOU/responsive-web-design)  
-  Completed 5 hands-on projects and over 300 hours of HTML and CSS training. Focused on responsive layout, Flexbox, and Grid.  
+Roman Numeral Converter
 
-  ✅ **Projects:**
-  - [Tribute Page](https://jamila-ait-hamou.github.io/Tribute-Page/)
-  - [Survey Form](https://jamila-ait-hamou.github.io/Survey-Form/)
-  - [Product Landing Page](https://jamila-ait-hamou.github.io/EcoBrew-landing-page/)
-  - [Technical Documentation Page](https://jamila-ait-hamou.github.io/git-documentation/)
-  - [Personal Portfolio Page](https://jamila-ait-hamou.github.io/PORTFOLIO/)
+Cash Register
 
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Certified-0a0a23?logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/JAMILAAITHAMOU/responsive-web-design)
+Telephone Number Validator
 
----
+RPG Creature Search App (API integration)
 
-##  Get in Touch  
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jamila-ait-hamou)  
-- 💼 [GitHub Projects](https://github.com/JAMILA-AIT-HAMOU)  
+✅ Responsive Web Design Certification – freeCodeCamp
+Completed 300+ hours of HTML and CSS training with emphasis on responsive layouts, Flexbox, and CSS Grid.
 
----
+Projects:
 
-Let’s connect and collaborate to create something extraordinary!
+Tribute Page
+
+Survey Form
+
+Product Landing Page
+
+Technical Documentation Page
+
+Personal Portfolio Page
+
+
+📬 Get in Touch
+🔗 LinkedIn
+
+💼 GitHub Projects
+
+Let’s connect and collaborate to build something meaningful and innovative!
+
