@@ -1,30 +1,41 @@
 # Welcome to My GitHub! 👋  
 
 ## I'm Jamila Ait Hamou  
-### Frontend Developer | 3D Modeler | Graphic Designer  
-
-I am passionate about blending creativity and technology to craft unique, impactful projects. My expertise lies in:  
-
-- **3D Modeling**: Creating detailed and polished models with Blender.  
-- **Web Development**: Building responsive and user-friendly websites using HTML, CSS, and JavaScript.  
-- **Graphic Design**: Designing visually compelling assets with tools like Photoshop and Canva.  
+Front-End Developer focused on building responsive, scalable, and user-centered web applications using React and modern JavaScript. 
 
 ---
 
-## What I Offer  
-I focus on creating projects that are both aesthetically engaging and highly functional. From custom 3D models to seamless web designs, I aim to bring your ideas to life with precision and creativity.  
+## Tech Stack
+
+   - React
+   - JavaScript (ES6+)
+   - HTML5
+   - CSS3
+   - Git & GitHub
+   - Vite
 
 ---
 
-## 📂Explore My Work  
+## What I Focus On
+
+   - Building clean and reusable React components
+   - Writing structured and maintainable code
+   - Creating responsive layouts
+   - Managing state and UI logic effectively
+   - Delivering smooth user experiences
+
+---
+
+##  📂Explore My Work 
 Check out my repositories to see my latest projects and innovations.  
+
 
 ---
 
 ## 🎓 Certifications  
 
    ### ✅ Responsive Web Design Certification – [freeCodeCamp](https://www.freecodecamp.org/certification/JAMILAAITHAMOU/responsive-web-design)  
-   Completed 5 hands-on projects and over 300 hours of HTML and CSS training. Focused on responsive layout, Flexbox, and Grid.  
+   Completed 5 hands-on projects and over 300 hours of HTML and CSS training, focusing on responsive layouts, Flexbox, and CSS Grid.  
    
    **Projects:**
    - [Tribute Page](https://jamila-ait-hamou.github.io/Tribute-Page/)
@@ -52,11 +63,27 @@ Check out my repositories to see my latest projects and innovations.
 
 ---
 
+   
+   ### ✅ Front End Development Libraries Certification – [freeCodeCamp](https://www.freecodecamp.org/certification/JAMILAAITHAMOU/front-end-development-libraries-v9/)  
+   Completed over 300 hours of training focused on modern front-end development using React, popular JavaScript libraries, and advanced UI development techniques.
+   
+   **Projects:**
+   - [Memory Card Game](https://jamila-ait-hamou.github.io/Memory-Card-Game/)
+   - [Tic Tac Toe Game](https://jamila-ait-hamou.github.io/Tic-Tac-Toe-Game/)
+   - [Currency Converter](https://jamila-ait-hamou.github.io/Currency-Converter/)
+   - [Event RSVP Form](https://jamila-ait-hamou.github.io/Event-RSVP-Form/)
+   
+   
+   
+   [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Certified-0a0a23?logo=freecodecamp&logoColor=white)](https://freecodecamp.org/certification/JAMILAAITHAMOU/front-end-development-libraries-v9/)
+
+
 ## Get in Touch  
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jamila-ait-hamou)  
-- 💼 [GitHub Projects](https://github.com/JAMILA-AIT-HAMOU)  
+-  [LinkedIn](https://www.linkedin.com/in/jamila-ait-hamou)  
+-  [GitHub Projects](https://github.com/JAMILA-AIT-HAMOU)
+-  [WhatsApp](https://wa.me/qr/2U3I36JBCIL7A1)
 
 ---
 
-Let’s connect and collaborate to create something extraordinary!
+I'm currently open to junior front-end developer opportunities (remote or on-site).
