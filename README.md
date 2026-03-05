@@ -81,7 +81,7 @@ Check out my repositories to see my latest projects and innovations.
 ## Get in Touch  
 
 -  [LinkedIn](https://www.linkedin.com/in/jamila-ait-hamou)  
--  [GitHub Projects](https://github.com/JAMILA-AIT-HAMOU)
+-  [GitHub Projects](https://github.com/JAMILA-AIT-HAMOU?tab=repositories)
 -  [WhatsApp](https://wa.me/qr/2U3I36JBCIL7A1)
 
 ---
